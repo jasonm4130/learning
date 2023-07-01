@@ -1,0 +1,7 @@
+{
+  "extends": ["wesbos/typescript"],
+  // Define the root directory for TypeScript files.
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
